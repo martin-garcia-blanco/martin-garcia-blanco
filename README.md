@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Martín García Blanco</h1>
+<h3 align="center">A passionate full stack developer 👨‍💻 from Galicia, but currently living in Barcelona</h3>
+
+<img align="center" src="https://assets-global.website-files.com/5bcb5ee81fb2091a2ec550c7/5dedd7b85049677d981db611_5c65f4ae2f71d67d0ee9f032_hero-image.png" alt="Martín coding"  />
 
 <!--
 **martin-garcia-blanco/martin-garcia-blanco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
