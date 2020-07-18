@@ -15,16 +15,16 @@ FullStack developer at [InterficieIS](http://www.interficie.com)
 
 ```javascript
 const martin = {
-  code: [Javascript, Typescript, HTML, CSS, Java],
-  tools: [React, ReactNative, Redux, Node, Jest, Testing Library, Docker],
+  code: [JavaScript, TypeScript, HTML, CSS, Java, SQL, MongoDB],
+  tools: [React, ReactNative, Redux, Node, Jest, Testing Library, Docker, GithubActions],
   currentMotivations: {
-    area: "Mobile developmet",
+    area: "Mobile development",
     tools: [GraphQL, ReactNative],
   },
   sideProject: {
-    description: "I am doing a mobile application with ReactNative to find, rate,
+    description: "I'm curently developing a mobile application with ReactNative to find, rate,
     and collect movies and tv shows",
-    release: "at the end of the summer the first version will be released",
+    release: "At the end of the summer the first version will be released on Android and IOS",
   },
 
 };
