@@ -16,9 +16,12 @@ const martin = {
     area: "Mobile developmet",
     tools: [GraphQL, ReactNative],
   },
-  sideProject:
-    "I am doing a mobile application with ReactNative to find, rate,
-    and collect movies and tv shows, at the end of summer we will have the first release",
+  sideProject: {
+    description: "I am doing a mobile application with ReactNative to find, rate,
+    and collect movies and tv shows", 
+    release: "At the end of summer we will have the first release",
+  },
+  
 };
 ```
 
