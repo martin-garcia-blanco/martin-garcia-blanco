@@ -1,7 +1,7 @@
 <div>
 <h2> Hi 👋, I'm Martín García Blanco 👨‍💻</h2>
 
-<img align='right' src="./me.png" width="200" >
+<img align='right' src="https://github.com/martin-garcia-blanco/martin-garcia-blanco/blob/master/me.png" width="200" >
 <h3 align="center">A passionate full stack developer from Galicia, but currently living in Barcelona</h3>
 
 #
