@@ -5,6 +5,7 @@
 <h3 align="center">A passionate full stack developer from Galicia, but currently living in Barcelona</h3>
 
 #
+</br>
 
 FullStack developer at [InterficieIS](http://www.interficie.com)
 
