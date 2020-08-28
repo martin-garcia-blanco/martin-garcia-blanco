@@ -32,5 +32,5 @@ const martin = {
 ```
 
 <div >
- <em>🤘🏼<b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to response!</b> 🤘🏼</em>
+ <em>🤘🏼<b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to respond!</b> 🤘🏼</em>
 </div>
