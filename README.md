@@ -7,7 +7,7 @@
 #
 </br>
 
-FullStack developer at [InterficieIS](http://www.interficie.com)
+FullStack developer at [Codurance](http://codurance.com/)
 
 [![Linkedin: Martin](https://img.shields.io/badge/-Martin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/martin-garcia-blanco/)](https://www.linkedin.com/in/martin-garcia-blanco/)
 [![GitHub Martin](https://img.shields.io/github/followers/martin-garcia-blanco?label=follow&style=social)](https://github.com/martin-garcia-blanco)
